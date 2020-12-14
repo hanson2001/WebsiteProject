@@ -1,4 +1,4 @@
-# basicwebsite
+# Website Project
 Final project for GC340: Concepts of Website Development at North Carolina State University. <br>
 To view the website:
   1. Download the zip file <i>finalproject.zip</i>
